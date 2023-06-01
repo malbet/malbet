@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**malbet/malbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 🌱 Hello! I'm [Alejandra], a passionate software developer with a strong focus on JavaScript and scripting languages. I love building innovative solutions and exploring new technologies to solve real-world problems.
 
