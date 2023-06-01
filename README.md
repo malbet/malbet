@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🌱 Hello! I'm [Alejandra], a passionate software developer with a strong focus on JavaScript and scripting languages. I love building innovative solutions and exploring new technologies to solve real-world problems.
+🌱 Hello! I'm Alejandra, a passionate software developer with a strong focus on JavaScript and scripting languages. I love building innovative solutions and exploring new technologies to solve real-world problems.
 
 Skills
 Programming Languages: JavaScript (ES6+), HTML, CSS
