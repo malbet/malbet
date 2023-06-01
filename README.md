@@ -5,10 +5,15 @@
 
 Skills
 Programming Languages: JavaScript (ES6+), HTML, CSS
+
 Front-end Development: React, CSS frameworks (Bootstrap, Tailwind CSS)
+
 Back-end Development: Node.js, Express.js
+
 Database: MySQL, PostgreSQL
+
 Version Control: Git, GitHub
+
 Projects
 - HENRYCOLLEGE! 🔭
 Short Programming Courses Platform
